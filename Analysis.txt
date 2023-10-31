@@ -1,0 +1,6 @@
+
+Conclusions/comparisons
+	
+1. The larger the school, the poorer the overall passing rate became.  If the school was smaller (less than 2000 students), the school had a higher chance of getting their students to have a passing grade.
+
+2. There was no correlation between the budget per student and the success the school would have with the overall passing rate.
